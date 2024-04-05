@@ -1,4 +1,7 @@
-.model_saved
+.model_saved/*
+!.model_saved/(NCLT) KalmanNet_best.pt
+!.model_saved/(NCLT, v2) KalmanNet_best.pt
+!.model_saved/(NCLT) Split_KalmanNet_best.pt
 __pycache__/
 *.py[cod]
 (NCLT) data_preprocessing/*.csv
